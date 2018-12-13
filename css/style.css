@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.main{
+    background-image: url("../assets/images/car-bg.jpg");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    color: white;
+}
+
+#location{
+
+    
+}
